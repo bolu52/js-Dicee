@@ -1,1 +1,1 @@
-# js-Dicee
+# js-Dicee Challenge
